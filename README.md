@@ -1,2 +1,2 @@
 # Forecasting-Personal-Savings
-Explore ETS (AAN), Holt-Winters &amp; Vector Auto Regression forecasting models in this repository. They forecast a continuous rise in personal savings and reveal a seasonal pattern, suggesting a consistent growth rate in the foreseeable future
+This repository highlights the implementation of ETS (AAN), Holt-Winters, and Vector Auto Regression forecasting models, all of which predict a consistent upward trend in personal savings for the future. These models collectively identify a seasonal pattern within personal savings data, suggesting a steady rate of growth anticipated in the foreseeable future
